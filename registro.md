@@ -1,2 +1,3 @@
-### Sección de Registro y Consulta de Usuarios 
-### Sección de Consulta de Rutas  
+### Seccion de Registro y Consulta
+### Seccion de Consulta de Rutas
+
