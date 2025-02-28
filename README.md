@@ -1,1 +1,1 @@
-"# Aplicaci¢n de Gesti¢n del Transmetro" 
+"# Aplicacion de Gestion del Transmetro" 
