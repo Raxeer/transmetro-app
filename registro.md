@@ -1,1 +1,1 @@
-"### Secci¢n de Registro de Usuarios" 
+"### Secci¢n de Registro y Consulta" 
